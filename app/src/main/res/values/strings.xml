@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dianora TV Remmote</string>
+    <string name="welcome_title">Welcome to Dianora TV Remote</string>
+    <string name="welcome_message">Experience seamless, instant control for your Dianora Smart TV right from your smartphone.</string>
+    <string name="hardware_check_title">Hardware Status: No IR Blaster</string>
+    <string name="hardware_check_no_ir_message">No built-in Infrared (IR) emitter was detected on this device.\n\nTo send commands to your Dianora TV, please connect an external IR blaster dongle (via 3.5mm audio jack or USB-C adapter) and tap \'Check Again\'.\n\nYou can also explore the remote interface in simulation mode.</string>
+    <string name="hardware_check_ready_title">IR Blaster Ready</string>
+    <string name="hardware_check_ready_message">Your device\'s internal IR blaster is active and ready to transmit 38 kHz NEC-encoded signals to your Dianora TV.</string>
+    <string name="btn_check_again">Check Again</string>
+    <string name="btn_continue">Continue</string>
+    <string name="status_ir_active">IR Blaster Ready (38 kHz)</string>
+    <string name="status_ir_missing">No IR Blaster (Connect External)</string>
+    <string name="status_ir_simulated">Simulation Mode</string>
+</resources>

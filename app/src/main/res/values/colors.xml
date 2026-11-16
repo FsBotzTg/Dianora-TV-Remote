@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand & Theme Colors -->
+    <color name="primary">#0E8FA3</color>
+    <color name="primary_variant">#0B6E7D</color>
+    <color name="secondary">#22E6FF</color>
+    <color name="background_dark">#0D0F16</color>
+    <color name="surface_dark">#1A1E2B</color>
+    <color name="text_primary">#E8ECF5</color>
+    <color name="text_secondary">#7B849C</color>
+    <color name="signal_cyan">#22E6FF</color>
+    <color name="error_red">#FF4757</color>
+</resources>
